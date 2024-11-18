@@ -1,6 +1,16 @@
 # PosGraduacao_Part2_Projeto_Usuario_Tarefas_BackEnd2
 <body>
-    <h1>Sistema de Gerenciamento de Usuários e Tarefas</h1>
+<header>
+        <h1>Pós-Graduação: Desenvolvimento Web Fullstack</h1>
+        <h2>Disciplina: Back-End 2</h2>
+        <h3>Integrantes do Grupo:</h3>
+        <ul>
+            <li>Caio césar  RGM : 38091399 </li>
+            <li>Vitor Cauê Guimarães Travassos  RGM:  380546621</li>
+            <li>William Felix de Souza  RGM: 39699013</li>
+            <li>José Felipe Alexandre Martins  RGM: 39364429</li>
+        </ul>
+<h1>Sistema de Gerenciamento de Usuários e Tarefas</h1>
     <p>Este é um sistema web desenvolvido em <strong>Java</strong> para gerenciar usuários e tarefas com base nos requisitos descritos. A aplicação utiliza <strong>MongoDB</strong> como banco de dados e implementa uma relação entre usuários e tarefas.</p>
 
 <h2>Funcionalidades</h2>
